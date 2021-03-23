@@ -1,7 +1,7 @@
 # Laboratórios de MC322
 
 ## Aluno
-* João Victor Evangelista Matoso - 176293
+* João Victor Evangelista Matoso
 
 ## Curso
 * Engenharia de controle e automação
