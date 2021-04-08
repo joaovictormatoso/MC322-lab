@@ -2,7 +2,7 @@
 
 ## Notebook sobre Lombriga no Aquário
 
-> [Notebook](notebook)
+> [Notebook](notebook/lab-lombriga-ra176293.ipynb)
 
 ## Arquivos Java sobre Lombriga no Aquário
 
