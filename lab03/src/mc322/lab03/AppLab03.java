@@ -1,19 +1,19 @@
 package mc322.lab03;
 
+/**
+ * Classe para chamada da função main
+ * @author João Victor E. Matoso
+ * @see AquarioLombriga
+ * @see Animacao
+ */
 public class AppLab03 {
 	
 	public static void main(String[] args) {
-		AquarioLombriga aq = new AquarioLombriga(13,11,4);
-		System.out.println(aq.apresenta());
-		System.out.println(aq.tamAquario);
 		
+		Animacao animacao = new Animacao("080403MCMVM");
+		System.out.println(animacao.apresenta());
 		
-//		Animacao a = new Animacao("080403MCMVM");
-//		System.out.println(a.apresenta());
-//		
-//		while(a.passo())
-//			System.out.println(a.apresenta());
-		
+		while(animacao.passo())
+			System.out.println(animacao.apresenta());
 	}
-	
 }
